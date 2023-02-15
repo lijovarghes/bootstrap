@@ -1,0 +1,17 @@
+
+    :hover:{
+        background-color: brown;
+    }
+    .nav-item:hover{
+        font-size: larger;
+        text-align: right;
+        text color: blue;
+      
+    }
+    nav-link:hover{
+        background-color: blue;
+
+    }
+    #Navbarnav{
+        color: blueviolet;
+    }
